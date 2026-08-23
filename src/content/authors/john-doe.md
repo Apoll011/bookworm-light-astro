@@ -1,7 +1,7 @@
 ---
 title: Tiago Inês
 meta_title: ""
-image: /images/authors/john-doe.jpg
+image: ""
 description: ""
 social:
   facebook: https://www.facebook.com/apoll011
