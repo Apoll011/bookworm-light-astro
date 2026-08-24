@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Hosanna"
-meta_title: "About Us"
+meta_title: "Welcome to Hosanna - Get to know us, and what is our vison"
 image: "/images/icon.png"
 draft: false
 
