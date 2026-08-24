@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Hosanna"
 meta_title: "About Us"
-image: "/images/logo.png"
+image: "/images/icon.png"
 draft: false
 
 what_i_do:
@@ -12,8 +12,6 @@ what_i_do:
     - title: Song Catalog
       description: Create edit and manage your songs
 ---
-> **Plan your worship. Organize your music. Serve with confidence.**
-
 Hosanna is a worship planning platform designed to help churches organize their music library, prepare services, and give every musician quick access to the songs they need.
 
 Whether you're leading worship, playing an instrument, singing, or preparing a service, Hosanna keeps your music and service plans together in one place. Instead of juggling folders, messaging apps, and printed chord sheets, your entire worship team works from a single, organized library.
