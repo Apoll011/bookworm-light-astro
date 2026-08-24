@@ -4,18 +4,18 @@
     "base_url": "https://blog.hosanna.live",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "",
-    "logo": "",
+    "favicon": "/images/logo.png",
+    "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Hosanna"
   },
   "settings": {
     "pagination": 5
   },
   "metadata": {
     "meta_author": "Apoll011",
-    "meta_image": "",
+    "meta_image": "/images/og-image.png",
     "meta_description": ""
   },
   "google_tag_manager": {
