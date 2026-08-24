@@ -4,8 +4,8 @@
     "base_url": "https://blog.hosanna.live",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/logo.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/icon.png",
+    "logo": "/images/icon.png",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Hosanna"
