@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Hosanna"
 meta_title: "About Us"
-image: ""
+image: "/images/logo.png"
 draft: false
 
 what_i_do:
