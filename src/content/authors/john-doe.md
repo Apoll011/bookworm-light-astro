@@ -1,7 +1,7 @@
 ---
 title: Tiago Inês
 meta_title: ""
-image: ""
+image: "/images/apoll011.jpeg"
 description: ""
 social:
   facebook: https://www.facebook.com/apoll011
