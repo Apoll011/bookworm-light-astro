@@ -6,7 +6,7 @@ description: "SongBook Pro, OnSong, Planning Center, JustChords, and Hosanna
   compared on features, pricing, and support, find the right worship software
   for your church."
 date: 2026-08-30T22:50:00.000Z
-image: ""
+image: "/images/726de150-7aa0-49b0-a5e3-eb8e90ad63e0.png"
 categories:
   - comparation
 authors:
